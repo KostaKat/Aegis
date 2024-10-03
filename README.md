@@ -3,7 +3,7 @@
 This repository contains the code and resources for the Aegis project.
 
 ## Contents
-- `best_model.pth`: Contains the trained weights for the AI model.
+- `best_model.pth`: Contains the trained weights for the AI Image detection model.
 - `Aegis_AI_Detection.pdf`: A comprehensive document detailing the implementation of the model, including design choices, training process, and evaluation results.
 
 ## How to Use
